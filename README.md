@@ -4,5 +4,5 @@ Autors: **Bernhards Jēkabsons**
 -ievadi kodu
 -palaid to
 ## Licence
--THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND
+-THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY
 **rudens**
