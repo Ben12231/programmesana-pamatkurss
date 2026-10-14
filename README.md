@@ -6,3 +6,7 @@ Autors: **Bernhards Jēkabsons**
 ## Licence
 -THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY
 **rudens**
+
+str ir a 
+int ir b
+float ir c
