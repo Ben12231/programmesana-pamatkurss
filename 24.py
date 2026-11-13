@@ -1,0 +1,10 @@
+"""
+Šī programma aprēķina spēlētāja atlikušos dzīvības punktus 
+pēc pretiniekas uzbrukuma.
+"""
+
+speletaja_vards = "Anna"
+hp_punkti = 100
+uzbrukuma_jauda = 25
+
+atlikums = hp_punkti - uzbrukuma_jauda
